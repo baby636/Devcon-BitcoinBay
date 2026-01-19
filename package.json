@@ -13,7 +13,7 @@
     "@chris.troutner/bch-js": "^3.4.1",
     "bignumber.js": "^9.0.0",
     "bitbox-sdk": "^8.11.2",
-    "bitcore-lib-cash": "^8.22.2",
+    "bitcore-lib-cash": "^10.0.28",
     "cashscript": "^0.5.1",
     "slp-list": "^1.1.0",
     "slp-mdm": "^0.0.6",
